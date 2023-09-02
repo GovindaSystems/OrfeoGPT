@@ -44,7 +44,7 @@ OrfeoGPT foi criado com o objetivo de ser um auxiliar Chatbot. Utilizando sua ba
 
 ## Pacotes de Humor
 
-
+---
 
 ## Plugins disponíveis:
 
